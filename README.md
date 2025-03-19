@@ -31,7 +31,7 @@
 
 ## 📂 Данные
 - Источники: Excel-файл (скачан с Kaggle).
-- Схема данных: [screenshots/data-model.png]([screenshots/data-model.png).
+- Схема данных: [screenshots/data-model.png](screenshots/data-model.png).
 
 ## 🚀 Запуск
 1. Скачайте датасет [CoffeeShop.xlsx](data/CoffeeShop.xlsx). 
